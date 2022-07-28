@@ -13,4 +13,3 @@ To identify event & event rates, mileage per model, therefore identifying models
 
 Workload Management Dashboard in order to balance workload between drivers and models
 
-![image](https://user-images.githubusercontent.com/47084968/181581781-b75dc1a1-1a4b-44a4-a21a-b0a1d7fab199.png)
